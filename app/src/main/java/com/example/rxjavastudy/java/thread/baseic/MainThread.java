@@ -1,4 +1,4 @@
-package com.example.rxjavastudy.java;
+package com.example.rxjavastudy.java.thread.baseic;
 
 public class MainThread {
     public static void main(String[] args) {

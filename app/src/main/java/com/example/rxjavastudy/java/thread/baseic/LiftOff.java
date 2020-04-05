@@ -1,4 +1,4 @@
-package com.example.rxjavastudy.java;
+package com.example.rxjavastudy.java.thread.baseic;
 
 public class LiftOff implements Runnable {
     protected int countDown = 10;
